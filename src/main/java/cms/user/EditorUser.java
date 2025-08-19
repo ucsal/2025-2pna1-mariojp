@@ -12,6 +12,8 @@ public class EditorUser {
 		this.email = email;
 		this.password = password;
 	}
+	
+	//dsdsds
 
 	public int getId() {
 		return id;
